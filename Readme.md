@@ -34,8 +34,6 @@
 - Git & GitHub
 - Netlify - Deployment
 
----
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-prasad-nayak420/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RudraPrasad728)
@@ -113,7 +111,7 @@
       <a href="#">
         <img src="bootstrap-plain.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>bootstrap
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -169,13 +167,13 @@
       <a href="#">
         <img src="kali.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>kali
+      <br>Kali Linux
     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="ando.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>android
+      <br>Android
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -237,15 +235,6 @@
 <td colspan="3"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rudra-Prasad-Nayak&theme=github_dark"/></td>
 </tr>
 <tr align="center">
-<td colspan="3"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rudra-Prasad-Nayak&theme=github_dark"/></td>
-</tr>
-<tr align="center">
 <td colspan="3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra-Prasad-Nayak&" alt="Rudra-Prasad-Nayak" /></td>
 </tr>
 </table>
-
- <p align="center">
-  <h1 align="center">Summary Of My Github Live Graph</h1>
-</p>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rudra-Prasad-Nayak&theme=github_dark)
