@@ -13,9 +13,7 @@
     <tr><td><a href="/milaan9/milaan9/blob/main/README_pt.md"><img src="https://github.com/milaan9/milaan9/raw/main/3909444.svg" height="15" style="max-width: 100%;"> Odia ★★★★★</a></td></tr>
 </tbody></table>
 
-- [👋](https://res.cloudinary.com/dyvcg2scr/raw/upload/v1691241458/chandan_tqx0va.css) Hi, I’m Rudra Prasad Nayak
-
-#### Open-Source Contributor • Programmer • Developer
+- 💻 Open-Source Contributor • Programmer • Developer
 
 - 😚 I'm a full-stack developer and Web Designer.
 - 😄 Pronouns: He/Him
@@ -56,37 +54,37 @@
     </td>
     <td align="center"width="96">
       <a href="#">
-        <img src=" python-original.svg" width="48" height="48" alt="Python" />
+        <img src="python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src=" c.png" width="48" height="48" alt="c" />
+        <img src="c.png" width="48" height="48" alt="c" />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="/img/c++.png" width="48" height="48" alt="Jsonnet" />
+        <img src="c++.png" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src=" m.png" width="48" height="48" alt="TypeScript" />
+        <img src="m.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>markdown
     </td>
      <td align="center" width="96">
       <a href="#">
-        <img src=" html.png" width="48" height="48" alt="TypeScript" />
+        <img src="html.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>HTML
     </td>
      <td align="center" width="96">
       <a href="#">
-        <img src=" sql.png" width="48" height="48" alt="TypeScript" />
+        <img src="sql.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>SQL
     </td>
@@ -94,13 +92,13 @@
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src=" power.png" width="48" height="48" alt="TypeScript" />
+        <img src="power.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Powershell
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src=" php.png" width="48" height="48" alt="PHP" />
+        <img src="php.png" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
     </td>
@@ -113,25 +111,25 @@
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src=" bootstrap-plain.svg" width="48" height="48" alt="Python" />
+        <img src="bootstrap-plain.svg" width="48" height="48" alt="Python" />
       </a>
       <br>bootstrap
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="img/react-original.svg" width="48" height="48" alt="react" />
+        <img src="react-original.svg" width="48" height="48" alt="react" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src=" github.png" width="48" height="48" alt="TypeScript" />
+        <img src="github.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>GitHub-Action
     </td>
      <td align="center" width="96">
       <a href="#">
-        <img src=" wordpress.png" width="48" height="48" alt="TypeScript" />
+        <img src="wordpress.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Wordpress
     </td>
@@ -144,13 +142,13 @@
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src=" github.png" width="48" height="48" alt="C#" />
+        <img src="github.png" width="48" height="48" alt="C#" />
       </a>
       <br>GitHub Page
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src=" mysql-original.svg" width="48" height="48" alt="Python" />
+        <img src="mysql-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>my-sql
     </td>
@@ -163,25 +161,25 @@
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src=" windo.png" width="48" height="48" alt="C#" />
+        <img src="windo.png" width="48" height="48" alt="C#" />
       </a>
       <br>Windows
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src=" kali.png" width="48" height="48" alt="TypeScript" />
+        <img src="kali.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>kali
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src=" ando.png" width="48" height="48" alt="TypeScript" />
+        <img src="ando.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>android
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src=" crom.png" width="48" height="48" alt="TypeScript" />
+        <img src="crom.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Chrome OS
     </td>
@@ -194,32 +192,26 @@
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src=" anaconda.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>Anaconda
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src=" git.png" width="48" height="48" alt="Git" />
+        <img src="git.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src=" vs.png" width="48" height="48" alt="TypeScript" />
+        <img src="vs.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Visual Studio
     </td>
      <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src=" jnote.png" width="48" height="48" alt="TypeScript" />
+        <img src="jnote.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Jupyter Notebook
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src=" sublime.png" width="48" height="48" alt="TypeScript" />
+        <img src="sublime.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Sublime
     </td>
@@ -235,8 +227,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rudra-Prasad-Nayak&label=Profile%20views&color=0e75b6&style=flat" alt="Rudra-Prasad-Nayak" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rudra-Prasad-Nayak&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <table align="center" border="1">
 <tr align="center">
