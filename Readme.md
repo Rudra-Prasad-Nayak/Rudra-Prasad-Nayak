@@ -202,7 +202,6 @@
       </a>
       <br>Visual Studio
     </td>
-     <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="jnote.png" width="48" height="48" alt="TypeScript" />
