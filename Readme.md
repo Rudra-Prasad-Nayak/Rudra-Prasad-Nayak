@@ -1,4 +1,4 @@
-![logo](https://github.com/rudra420-123/rudra420-123/blob/main/Banner.png)
+![logo](Banner.png)
 
 <h1 align="center">Hi 👋, I'm Rudra Prasad Nayak</h1>
 
