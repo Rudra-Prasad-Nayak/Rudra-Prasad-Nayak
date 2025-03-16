@@ -1,4 +1,4 @@
-![logo](Banner.png)
+![logo]([Banner.png](https://raw.githubusercontent.com/rudra420-123/rudra420-123/main/assets/Banner.png))
 
 <h1 align="center">Hi 👋, I'm Rudra Prasad Nayak</h1>
 
