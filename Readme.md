@@ -38,7 +38,7 @@
 
 📂 **Projects & Contributions**
 
-- Check out my projects on **[GitHub](https://github.com/rudra420-123/)**.
+- Check out my projects on **[GitHub](https://github.com/Rudra-Prasad-Nayak/)**.
 
 💬 **Ask Me About:**
 
@@ -73,26 +73,26 @@
 # 🌐 Socials
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rudra420-123420/" target="_blank">
+  <a href="https://www.linkedin.com/in/RudraPrasadNayak728//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/rudra420-123/" target="_blank">
+  <a href="https://github.com/Rudra-Prasad-Nayak/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://x.com/RudraPrasad728" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://www.instagram.com/your_instagram_handle/" target="_blank">
+  <a href="https://www.instagram.com/dipu13562/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.facebook.com/your_facebook_handle/" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100057072414096" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </p>
 
 ---
 
-<h2 align="left" id="rudra420-123">🚀 Development-Hub 🚀</h2>
+<h2 align="left" id="Rudra-Prasad-Nayak">🚀 Development-Hub 🚀</h2>
 
 > ## Programming Languages
 
